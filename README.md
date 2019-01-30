@@ -33,4 +33,4 @@
 
  - Understanding When to use RabbitMQ or Apache Kafka
 
-  - https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka
+    - https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka
