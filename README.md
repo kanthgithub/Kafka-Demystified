@@ -29,3 +29,8 @@
   - How to Lose Messages on a Kafka Cluster Part 1 (https://jack-vanlightly.com/blog/2018/9/14/how-to-lose-messages-on-a-kafka-cluster-part1)
 
   - How to Lose Messages on a Kafka Cluster Part 2 (https://jack-vanlightly.com/blog/2018/9/18/how-to-lose-messages-on-a-kafka-cluster-part-2)
+
+
+  Understanding When to use RabbitMQ or Apache Kafka
+
+  - https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka
